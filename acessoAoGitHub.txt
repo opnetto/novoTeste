@@ -1,0 +1,5 @@
+
+token para poder acessar o github (sincronizar com repositório)
+
+username: opnetto
+password: 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
